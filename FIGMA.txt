@@ -1,0 +1,42 @@
+FIGMA INTRODUCTION
+Figma is a browser-based UI/UX design application with design, prototyping, and code generation tools. Figma can be used to create Prototypes, Flowcharts, and Presentations, User Interfaces, Website Designs, Mobile App Designs, Social Media Graphics, and a lot more stuff. It comes with a desktop application and a web application that can be accessed anywhere from any device. 
+ADVANTAGES OF FIGMA
+*Easily Create Website Mockup
+*Simple Interface
+*Supports Both Desktop Computers and Mobile Devices
+*Responsive Designs
+*Support Multiple Platforms
+
+DISADVANTAGES OF FIGMA
+*No Version Control
+*Limited Customization Options
+*Cannot Work Offline
+*Lacks Collaboration Capabilities
+*Prototyping process
+
+ Steps to download and login into Figma Application 
+Step 1 : Go to your preferred browser and search figma download for windows. Click on the official figma website link. 
+  
+Step 2 : At the bottom of the page, Select the Desktop app for windows. An .exe file would be begin to download. 
+  
+Step 3 : Run the downloaded app. It will ask for login into Figma account click on login. 
+Step 4: The link will be redirected into the figma website. Click on create one. 
+  
+
+
+Step 5 : Click on continue with google and enter the Gmail credentials. 
+Step 6 : In the next page, It will ask about yourself fill the tabs and click on create account. 
+  
+Step 7 : The page will be automatically redirected back to figma application. 
+  
+ Steps to create Sitemap in Figma 
+Step 1 : Click on NewFigjamFile in the menu of the home screen or click on new tab option at the top and select FigjamFile. 
+  
+
+  
+Step 2 : A black workspace will be appear with different types of tools. 
+  
+Step 3 : Use the different tools that are available to create a sitemap of an website. 
+Step 4 : Using Clipboard, click on ellipse and choose it as square 
+Step 5 : Make some clips by pulling blocks from ellipse 
+Step 6 : Arrange the blocks as shown in the below diagram. 
